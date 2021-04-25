@@ -1,3 +1,4 @@
+
 # İkinci El Araç Satiş Uygulması  
 
 Bizlerden verilen senoryaya göre ikinci el bir araç satış sistemi uygulaması tasarlamamız istenmektedir. 
@@ -10,5 +11,6 @@ Bu noktada davranış detaylarını prototip olarak düşünüyoruz yani fonksiy
 
 Tüm bu işlemleri detaylı şekilde anlattığum YouTube videosu:
 
+![Kapak](https://user-images.githubusercontent.com/55615575/116004337-f4178d00-a60a-11eb-9962-5f0c469e80a6.png)
 
 https://youtu.be/n312U0dAIvM
